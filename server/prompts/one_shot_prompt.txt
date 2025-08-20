@@ -1,0 +1,7 @@
+Example:
+Q: Explain closures in JavaScript.
+A: A closure is a function that has access to its own scope, the outer function's variables, and the global variables, even after the outer function has returned.
+
+Now answer the following:
+Q: What is a REST API?
+A:
