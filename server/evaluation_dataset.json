@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is a closure in JavaScript?",
+    "expected_keywords": ["function", "access outer scope", "after execution"]
+  },
+  {
+    "question": "Explain what REST API is.",
+    "expected_keywords": ["stateless", "HTTP", "resources"]
+  }
+]
