@@ -1,0 +1,11 @@
+Example 1:
+Q: What is a closure in JavaScript?
+A: A closure is a function that has access to its own scope and the outer variables even after that outer function returns.
+
+Example 2:
+Q: What is a REST API?
+A: REST API is an architectural style that uses HTTP methods to access and manipulate resources in a stateless way.
+
+Now answer the following:
+Q: What is a Promise in JavaScript?
+A:
